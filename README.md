@@ -1,4 +1,4 @@
-### Machine_learning simplified to data repository
+### Machine learning simplified to data repository
 <div>
     <div></div>
     <hr class="styled-hr" />
