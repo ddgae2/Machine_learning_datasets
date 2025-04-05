@@ -4,7 +4,8 @@
     <hr class="styled-hr" />
     <div></div>
  </div>
-<br> Machine Learning Example <be> 
+ 
+<be> Machine Learning Example <br> 
 
 ## Step 1: Explanation
 
